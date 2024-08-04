@@ -33,6 +33,7 @@ Replace the database connection string in the .env file with your specific datab
 Secret Key - You can also change the secret key for JWT in the .env file.
 
 
+
 go build -o go-jwt-authentication
 
 Run the executable binary:
